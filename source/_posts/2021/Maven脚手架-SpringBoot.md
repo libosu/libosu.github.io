@@ -18,6 +18,5 @@ http://maven.apache.org/archetype/maven-archetype-plugin/index.html
 ```
 File -->new -->project
 ```
-![](Maven脚手架-SpringBoot/archetype_01.png)
+![](images/2021/archetype_01.png)
 
-{% asset_img archetype_01.png %}
